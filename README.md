@@ -27,7 +27,7 @@ I'm a passionate software developer with a knack for crafting efficient and user
 - Associate Software Engineer at ACI Worldwide Consulting
 - Software Development Engineer Intern at Nice Interactive Solutions
 
-🌐 ** 📫 How to reach me:**: 
+📫 **How to reach me**: 
 - LinkedIn : https://linkedin.com/in/gattanisanket3/
 - ✉️ **Email**: gattani2@buffalo.edu
 
