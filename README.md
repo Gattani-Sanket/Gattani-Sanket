@@ -3,21 +3,20 @@
 I'm a passionate software developer with a knack for crafting efficient and user-friendly solutions. My journey in the world of code has been exciting, and I've had the privilege of contributing to impactful projects.
 
 🌟 **Skills**:
-Java ![Java](https://img.shields.io/badge/-Java-orange)
-C++ ![C++](https://img.shields.io/badge/-C++-blue)
-Python ![Python](https://img.shields.io/badge/-Python-green)
-HTML ![HTML](https://img.shields.io/badge/-HTML-red)
-CSS ![CSS](https://img.shields.io/badge/-CSS-blue)
-JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-Angular ![Angular](https://img.shields.io/badge/-Angular-red)
-NodeJS ![NodeJS](https://img.shields.io/badge/-NodeJS-green)
-Spring Boot ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-blue)
-Django ![Django](https://img.shields.io/badge/-Django-green)
-SQL ![SQL](https://img.shields.io/badge/-SQL-orange)
-MongoDB ![MongoDB](https://img.shields.io/badge/-MongoDB-green)
-AWS ![AWS](https://img.shields.io/badge/-AWS-yellow)
-Git ![Git](https://img.shields.io/badge/-Git-red)
-Jira ![Jira](https://img.shields.io/badge/-Jira-blue)
+![Java](https://img.shields.io/badge/-Java-orange)
+![C++](https://img.shields.io/badge/-C++-blue)
+![Python](https://img.shields.io/badge/-Python-green)
+![HTML](https://img.shields.io/badge/-HTML-red)
+![CSS](https://img.shields.io/badge/-CSS-blue)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![Angular](https://img.shields.io/badge/-Angular-red)
+![NodeJS](https://img.shields.io/badge/-NodeJS-green)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-blue)
+![Django](https://img.shields.io/badge/-Django-green)
+![SQL](https://img.shields.io/badge/-SQL-orange)
+![AWS](https://img.shields.io/badge/-AWS-yellow)
+![Git](https://img.shields.io/badge/-Git-red)
+
 
 🎓 **Education**:
 - MSc in Computer Science and Engineering (University at Buffalo)
