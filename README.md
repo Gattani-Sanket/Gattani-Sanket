@@ -28,7 +28,7 @@ I'm a passionate software developer with a knack for crafting efficient and user
 - Software Development Engineer Intern at Nice Interactive Solutions
 
 🌐 **Connect with me**: [LinkedIn](https://linkedin.com/in/gattanisanket3/)
-✉️ **Email**: gattani2@buffalo.edu
+- ✉️ **Email**: gattani2@buffalo.edu
 
 
 
