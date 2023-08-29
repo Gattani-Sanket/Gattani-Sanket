@@ -5,7 +5,7 @@ I'm a passionate software developer with a knack for crafting efficient and user
 🌟 **Skills**: Java, C++, Python, HTML, CSS, JavaScript, Angular, NodeJS, Spring Boot, Django, SQL, MongoDB, AWS, Git, Jira
 
 🎓 **Education**:
-- MSc in Computer Science and Engineering (University at Buffalo)
+- MS in Computer Science and Engineering (University at Buffalo)
 - BE in Computer Engineering (Pune Institute of Computer Technology)
 
 🚀 **Experience**:
