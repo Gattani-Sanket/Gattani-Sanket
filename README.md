@@ -19,7 +19,7 @@ I'm a passionate software developer with a knack for crafting efficient and user
 
 
 🎓 **Education**:
-- MSc in Computer Science and Engineering (University at Buffalo)
+- MS in Computer Science and Engineering (University at Buffalo)
 - BE in Computer Engineering (Pune Institute of Computer Technology)
 
 🚀 **Experience**:
