@@ -1,4 +1,4 @@
-# Hi there, I'm Sanket! 👋
+# Hi, I'm Sanket! 👋
 
 I'm a passionate software developer with a knack for crafting efficient and user-friendly solutions. My journey in the world of code has been exciting, and I've had the privilege of contributing to impactful projects.
 
