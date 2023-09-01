@@ -9,7 +9,7 @@
 <!--  -->
 - 🌍  I’m based in Buffalo, *New York*
 - 🔭  I’m looking to collaborate on *Open Source*
-- 💬  Ask me about *Java, Angular, Springboot, Hibernate* 💖
+- 💬  Ask me about *Java, Angular, Springboot, Hibernate* 
 
 <br></br>
 
