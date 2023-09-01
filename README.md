@@ -3,10 +3,11 @@
 <br></br>
 <img align="right" alt="Coding" width="350" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-- 🌍  I’m based in Buffalo, *New York*
+
 
 <!-- - 🖥️  See my portfolio at [WebApp](https://google.com) -->
 <!--  -->
+- 🌍  I’m based in Buffalo, *New York*
 - 🔭  I’m looking to collaborate on *Open Source*
 - 💬  Ask me about *Java, Angular, Springboot, Hibernate* 💖
 
