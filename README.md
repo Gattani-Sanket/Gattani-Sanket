@@ -8,9 +8,6 @@
 <!-- - 🖥️  See my portfolio at [WebApp](https://google.com) -->
 <!--  -->
 - 🔭  I’m looking to collaborate on *Open Source*
-
-- 📫  How to reach me [gattani2@buffalo.edu](mailto:gattani2@buffalo.edu)
-
 - 💬  Ask me about *Java, Angular, Springboot, Hibernate* 💖
 
 <br></br>
@@ -23,11 +20,6 @@
 - Summer Software Developer at ClearlyEnergy, Inc.
 - Associate Software Engineer at ACI Worldwide Consulting
 - Software Development Engineer Intern at Nice Interactive Solutions
-
-
-📫 **How to reach me**: 
-- Linkedin : https://linkedin.com/in/gattanisanket3/
-- ✉️ **Email**: gattani2@buffalo.edu
 
 ### 👉 Front-end
 <p>
@@ -92,7 +84,7 @@
 
 ### Socials
 
-<p align="left"> <a href="https://www.linkedin.com/in/gattanisanket3/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vinaylamba9" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/gattanisanket3/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gattanisanket3/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 <b>My GitHub Stats</b>
