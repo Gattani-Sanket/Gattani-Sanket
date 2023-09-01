@@ -11,7 +11,6 @@
 - 🔭  I’m looking to collaborate on *Open Source*
 - 💬  Ask me about *Java, Angular, Springboot, Hibernate* 
 
-<br></br>
 
 🎓 **Education**:
 - MS in Computer Science and Engineering (University at Buffalo)
