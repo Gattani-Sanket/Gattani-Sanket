@@ -1,18 +1,4 @@
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align="center">Hi!👋, I'm Sanket K</h1>
+<h1 align="center">Hi!👋, I'm Sanket</h1>
 <h2 align="center">I'm a passionate software developer with a knack for crafting efficient and user-friendly solutions. My journey in the world of code has been exciting, and I've had the privilege of contributing to impactful projects.</h2>
 <br></br>
 <img align="right" alt="Coding" width="350" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
@@ -111,9 +97,9 @@ Here are some ideas to get you started:
 ### Badges
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/vinaylamba9"><img src="https://github-readme-stats.vercel.app/api?username=Gattani-Sanket&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="vinaylamba9's GitHub stats" /></a>
+<a href="http://www.github.com/Gattani-Sanket"><img src="https://github-readme-stats.vercel.app/api?username=Gattani-Sanket&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="vinaylamba9's GitHub stats" /></a>
 
-<a href="http://www.github.com/vinaylamba9"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gattani-Sanket&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Gattani-Sanket"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gattani-Sanket&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
 
